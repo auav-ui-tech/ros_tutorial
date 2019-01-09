@@ -50,7 +50,7 @@ Let's edit your `.bashrc` file. You can use your favorite text editor to edit it
 	- Add `source ~/auav_ui/devel/setup.bash` at the bottom and save it.
 	- Run this on your terminal, `source ~/.bashrc`.
 
-Now your workspace is fully set up but where do you put your source code? That's the topic for the next tutorial, ROS Package.
+Now your workspace is fully set up but where do you put your source code? That's the topic for the [next tutorial](https://github.com/auav-ui-tech/ros_tutorial/blob/master/package.md "Creating ROS Package"), ROS Package.
 
 Notes
 --

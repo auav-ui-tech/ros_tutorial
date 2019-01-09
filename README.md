@@ -10,7 +10,7 @@ In my opinion, explanation of ROS on their website is pretty abstract. So, the a
 
 ##### ROS Introduction
 * [Creating ROS Workspace](https://github.com/auav-ui-tech/ros_tutorial/blob/master/workspace.md "Creating ROS Workspace")
-* Creating ROS Package
+* [Creating ROS Package](https://github.com/auav-ui-tech/ros_tutorial/blob/master/package.md "Creating ROS Package")
 * Creating ROS Node as Publisher and Subscriber
 * Creating ROS Node as Server and Client (ROS Service)
 
